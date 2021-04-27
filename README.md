@@ -1,2 +1,2 @@
 # Breast_cancer_Julia
-Predicting whether a tumor is Malignant or Benign
+Predicting whether a tumor is Malignant or Benign using Julia
